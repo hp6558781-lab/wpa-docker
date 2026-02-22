@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+venv/
+env/
+
+# Uploads
+/uploads/
+
+# Wordlists
+/wordlists/
+
+# Sensitive files
+.secret/
